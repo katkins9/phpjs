@@ -1,0 +1,1 @@
+docker run -d -p 80:80 -v "c:\users\ken\git\phpjs\html":/var/www/html/ --name phpjs-dev php:7.0-apache
